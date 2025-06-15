@@ -1,9 +1,9 @@
 ## Herramientas y tecnologías
 
-- Python
-- scikit-learn, XGBoost, LightGBM
-- Pandas, NumPy, Matplotlib, Seaborn
-- Kaggle, Jupyter Notebooks, Google Colab, Tensor Flow, Deep Learning
+- `Python`
+- `scikit-learn`, `XGBoost`, `LightGBM`
+- `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
+- `Kaggle`, `Jupyter Notebooks`, `Google Colab`, `TensorFlow`, `DeepLearning`
 
 ## Objetivo
 
