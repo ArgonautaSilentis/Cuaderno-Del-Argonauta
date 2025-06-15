@@ -1,6 +1,6 @@
 ---
 
-## 🛠️ Herramientas y tecnologías
+## Herramientas y tecnologías
 
 - `Python`
 - `scikit-learn`, `XGBoost`, `LightGBM`
