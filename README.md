@@ -1,9 +1,31 @@
 ## Herramientas y tecnologías
 
+### Lenguajes y entornos
 - `Python`
-- `scikit-learn`, `XGBoost`, `LightGBM`
-- `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
-- `Kaggle`, `Jupyter Notebooks`, `Google Colab`, `TensorFlow`, `DeepLearning`
+- `Jupyter Notebook`, `Google Colab`
+- `GitHub`, `Kaggle`, `DrivenData`
+
+### Librerías para ciencia de datos
+- `pandas`, `numpy`, `matplotlib`, `seaborn`
+- `scikit-learn`, `xgboost`, `lightgbm`
+- `optuna`, `ydata-profiling`
+
+### Machine Learning clásico
+- `Random Forest`, `Gradient Boosting`, `HistGradientBoosting`
+- `Logistic Regression`, `K-Nearest Neighbors`
+- Optimización de hiperparámetros con `GridSearchCV` y `Optuna`
+- Técnicas de ensamblado: `Bagging`, `Boosting`, `Stacking`
+
+### Deep Learning
+- `TensorFlow`, `Keras`
+- `Convolutional Neural Networks (CNN)`
+- `Recurrent Neural Networks (RNN)`
+- Clasificación, regresión y segmentación con redes neuronales
+
+### Buenas prácticas
+- Validación cruzada, estratificación, manejo de desbalanceo
+- Ingeniería de características y selección de variables
+- Interpretación de modelos con métricas como F1-score, ROC-AUC, matriz de confusión
 
 ## Objetivo
 
