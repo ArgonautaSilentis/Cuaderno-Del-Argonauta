@@ -1,7 +1,7 @@
 ## Herramientas y tecnologías
 
 ### Lenguajes y entornos
-- `Python`
+- `Python`, `R`
 - `Jupyter Notebook`, `Google Colab`
 - `GitHub`, `Kaggle`, `DrivenData`
 
