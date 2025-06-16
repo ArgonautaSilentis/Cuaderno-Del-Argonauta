@@ -44,7 +44,7 @@ Se trata de un problema de clasificación multiclase con fuerte desbalanceo y mu
 
 ## 📈 Resultado
 
-![](.Scoring.png)
+![](./Pump_It_UP_ML/Scoring.png)
 
 Captura de pantalla del leaderboard de DrivenData con la puntuación final obtenida.
 
