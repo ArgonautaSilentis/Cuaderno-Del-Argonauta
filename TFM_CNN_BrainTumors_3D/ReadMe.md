@@ -57,14 +57,3 @@ Demo académica (no uso clínico) de un pipeline 3D en **cascada**: **Detector b
 
 **Métricas**
 - **Dice** (solape), **NSD** (acuerdo de superficies con tolerancia), **HD95**.
-
----
-
-## 🚀 Cómo ejecutar
-
-### 1) Entorno
-```bash
-# conda (recomendado)
-conda create -n bratsmets python=3.10 -y
-conda activate bratsmets
-pip install -r requirements.txt
