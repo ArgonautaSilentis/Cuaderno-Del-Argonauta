@@ -1,10 +1,10 @@
-# 🧠 BraTS-METS 2025 — Detección y Segmentación 3D de Metástasis Cerebrales
+# BraTS-METS 2025 — Detección y Segmentación 3D de Metástasis Cerebrales
 
 Demo académica (no uso clínico) de un pipeline 3D en **cascada**: **Detector binario → Segmentadores UNet++** con **TTA** y **ensemble por clase**. Incluye **app Streamlit** para probar con volúmenes propios.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 - **Detectar** parches candidatos con alta **sensibilidad (recall)**.
 - **Segmentar** voxel-wise en 5 clases (fondo + 4 etiquetas BraTS-METS).
@@ -20,7 +20,7 @@ Demo académica (no uso clínico) de un pipeline 3D en **cascada**: **Detector b
 
 ---
 
-## 🗂️ Contenidos del repo
+## Contenidos del repo
 
 - `TFM_<nombre>.ipynb` — Notebook principal (pipeline completo).
 - `Notebook_HTML/TFM_notebook.html` — Notebook exportado a HTML con anclas por sección.
@@ -33,7 +33,7 @@ Demo académica (no uso clínico) de un pipeline 3D en **cascada**: **Detector b
 
 ---
 
-## 🧩 Metodología (resumen)
+## Metodología (resumen)
 
 **Preprocesado**
 - Unificación a **128×128×128×4** (T1n, T1c, FLAIR, T2).
